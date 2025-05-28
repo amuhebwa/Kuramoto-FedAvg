@@ -1,0 +1,15 @@
+{"time":"2025-04-24T09:39:15.826487365-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250424_093915-yoop0i2v/logs/debug-core.log"}
+{"time":"2025-04-24T09:39:15.930408053-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-24T09:39:15.930462309-04:00","level":"INFO","msg":"created new stream","id":"yoop0i2v"}
+{"time":"2025-04-24T09:39:15.930475577-04:00","level":"INFO","msg":"stream: started","id":"yoop0i2v"}
+{"time":"2025-04-24T09:39:15.930515587-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"yoop0i2v"}
+{"time":"2025-04-24T09:39:15.930554588-04:00","level":"INFO","msg":"sender: started","stream_id":"yoop0i2v"}
+{"time":"2025-04-24T09:39:15.930554039-04:00","level":"INFO","msg":"handler: started","stream_id":"yoop0i2v"}
+{"time":"2025-04-24T09:39:15.932370703-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-24T10:19:13.19617754-04:00","level":"INFO","msg":"stream: closing","id":"yoop0i2v"}
+{"time":"2025-04-24T10:19:13.196211754-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-24T10:19:13.196238866-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-24T10:19:13.196365684-04:00","level":"INFO","msg":"handler: closed","stream_id":"yoop0i2v"}
+{"time":"2025-04-24T10:19:13.196372394-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"yoop0i2v"}
+{"time":"2025-04-24T10:19:13.196384858-04:00","level":"INFO","msg":"sender: closed","stream_id":"yoop0i2v"}
+{"time":"2025-04-24T10:19:13.196444257-04:00","level":"INFO","msg":"stream: closed","id":"yoop0i2v"}

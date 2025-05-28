@@ -1,0 +1,15 @@
+{"time":"2025-04-22T12:48:34.155760633-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250422_124833-cnialn1z/logs/debug-core.log"}
+{"time":"2025-04-22T12:48:34.259556288-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T12:48:34.259609363-04:00","level":"INFO","msg":"created new stream","id":"cnialn1z"}
+{"time":"2025-04-22T12:48:34.259622194-04:00","level":"INFO","msg":"stream: started","id":"cnialn1z"}
+{"time":"2025-04-22T12:48:34.259657794-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"cnialn1z"}
+{"time":"2025-04-22T12:48:34.259713789-04:00","level":"INFO","msg":"handler: started","stream_id":"cnialn1z"}
+{"time":"2025-04-22T12:48:34.259732193-04:00","level":"INFO","msg":"sender: started","stream_id":"cnialn1z"}
+{"time":"2025-04-22T12:48:34.261678368-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T12:48:36.26521704-04:00","level":"INFO","msg":"stream: closing","id":"cnialn1z"}
+{"time":"2025-04-22T12:48:36.265304446-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T12:48:36.265430732-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T12:48:36.265637502-04:00","level":"INFO","msg":"handler: closed","stream_id":"cnialn1z"}
+{"time":"2025-04-22T12:48:36.265672096-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cnialn1z"}
+{"time":"2025-04-22T12:48:36.265694822-04:00","level":"INFO","msg":"sender: closed","stream_id":"cnialn1z"}
+{"time":"2025-04-22T12:48:36.265750454-04:00","level":"INFO","msg":"stream: closed","id":"cnialn1z"}

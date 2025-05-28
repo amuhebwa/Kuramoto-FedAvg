@@ -1,0 +1,15 @@
+{"time":"2025-04-22T12:48:13.203855023-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250422_124812-dksmabb4/logs/debug-core.log"}
+{"time":"2025-04-22T12:48:13.307207312-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T12:48:13.307263282-04:00","level":"INFO","msg":"created new stream","id":"dksmabb4"}
+{"time":"2025-04-22T12:48:13.307276907-04:00","level":"INFO","msg":"stream: started","id":"dksmabb4"}
+{"time":"2025-04-22T12:48:13.307339964-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"dksmabb4"}
+{"time":"2025-04-22T12:48:13.307345866-04:00","level":"INFO","msg":"sender: started","stream_id":"dksmabb4"}
+{"time":"2025-04-22T12:48:13.307339741-04:00","level":"INFO","msg":"handler: started","stream_id":"dksmabb4"}
+{"time":"2025-04-22T12:48:13.309254567-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T12:48:31.33487365-04:00","level":"INFO","msg":"stream: closing","id":"dksmabb4"}
+{"time":"2025-04-22T12:48:31.334924322-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T12:48:31.335037895-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T12:48:31.335239738-04:00","level":"INFO","msg":"handler: closed","stream_id":"dksmabb4"}
+{"time":"2025-04-22T12:48:31.335269636-04:00","level":"INFO","msg":"sender: closed","stream_id":"dksmabb4"}
+{"time":"2025-04-22T12:48:31.335270086-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dksmabb4"}
+{"time":"2025-04-22T12:48:31.335374249-04:00","level":"INFO","msg":"stream: closed","id":"dksmabb4"}

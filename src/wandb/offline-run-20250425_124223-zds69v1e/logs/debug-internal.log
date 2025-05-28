@@ -1,0 +1,15 @@
+{"time":"2025-04-25T12:42:23.444510067-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250425_124223-zds69v1e/logs/debug-core.log"}
+{"time":"2025-04-25T12:42:23.547897149-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-25T12:42:23.547950774-04:00","level":"INFO","msg":"created new stream","id":"zds69v1e"}
+{"time":"2025-04-25T12:42:23.547963568-04:00","level":"INFO","msg":"stream: started","id":"zds69v1e"}
+{"time":"2025-04-25T12:42:23.548000593-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"zds69v1e"}
+{"time":"2025-04-25T12:42:23.548054248-04:00","level":"INFO","msg":"handler: started","stream_id":"zds69v1e"}
+{"time":"2025-04-25T12:42:23.54832363-04:00","level":"INFO","msg":"sender: started","stream_id":"zds69v1e"}
+{"time":"2025-04-25T12:42:23.550632247-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-25T13:41:12.074414826-04:00","level":"INFO","msg":"stream: closing","id":"zds69v1e"}
+{"time":"2025-04-25T13:41:12.074431978-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-25T13:41:12.074475771-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-25T13:41:12.074555734-04:00","level":"INFO","msg":"handler: closed","stream_id":"zds69v1e"}
+{"time":"2025-04-25T13:41:12.074561115-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zds69v1e"}
+{"time":"2025-04-25T13:41:12.074565063-04:00","level":"INFO","msg":"sender: closed","stream_id":"zds69v1e"}
+{"time":"2025-04-25T13:41:12.074596077-04:00","level":"INFO","msg":"stream: closed","id":"zds69v1e"}

@@ -1,0 +1,15 @@
+{"time":"2025-04-25T09:38:23.030484-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250425_093822-np60esai/logs/debug-core.log"}
+{"time":"2025-04-25T09:38:23.13451527-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-25T09:38:23.134569276-04:00","level":"INFO","msg":"created new stream","id":"np60esai"}
+{"time":"2025-04-25T09:38:23.134582025-04:00","level":"INFO","msg":"stream: started","id":"np60esai"}
+{"time":"2025-04-25T09:38:23.134621327-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"np60esai"}
+{"time":"2025-04-25T09:38:23.134673554-04:00","level":"INFO","msg":"sender: started","stream_id":"np60esai"}
+{"time":"2025-04-25T09:38:23.134686931-04:00","level":"INFO","msg":"handler: started","stream_id":"np60esai"}
+{"time":"2025-04-25T09:38:23.136663426-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-25T10:37:14.355322537-04:00","level":"INFO","msg":"stream: closing","id":"np60esai"}
+{"time":"2025-04-25T10:37:14.355357958-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-25T10:37:14.355406614-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-25T10:37:14.35554059-04:00","level":"INFO","msg":"handler: closed","stream_id":"np60esai"}
+{"time":"2025-04-25T10:37:14.355559803-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"np60esai"}
+{"time":"2025-04-25T10:37:14.355579896-04:00","level":"INFO","msg":"sender: closed","stream_id":"np60esai"}
+{"time":"2025-04-25T10:37:14.355627182-04:00","level":"INFO","msg":"stream: closed","id":"np60esai"}

@@ -1,0 +1,15 @@
+{"time":"2025-04-03T23:15:46.117181627-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/baselines/wandb/offline-run-20250403_231545-dwpyogrz/logs/debug-core.log"}
+{"time":"2025-04-03T23:15:46.222637566-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-03T23:15:46.222710344-04:00","level":"INFO","msg":"created new stream","id":"dwpyogrz"}
+{"time":"2025-04-03T23:15:46.222733407-04:00","level":"INFO","msg":"stream: started","id":"dwpyogrz"}
+{"time":"2025-04-03T23:15:46.222744658-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"dwpyogrz"}
+{"time":"2025-04-03T23:15:46.222781457-04:00","level":"INFO","msg":"handler: started","stream_id":"dwpyogrz"}
+{"time":"2025-04-03T23:15:46.222828276-04:00","level":"INFO","msg":"sender: started","stream_id":"dwpyogrz"}
+{"time":"2025-04-03T23:15:46.228612687-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T23:16:31.278482456-04:00","level":"INFO","msg":"stream: closing","id":"dwpyogrz"}
+{"time":"2025-04-03T23:16:31.278515869-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T23:16:31.278573287-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T23:16:31.27867003-04:00","level":"INFO","msg":"handler: closed","stream_id":"dwpyogrz"}
+{"time":"2025-04-03T23:16:31.278687312-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dwpyogrz"}
+{"time":"2025-04-03T23:16:31.278713542-04:00","level":"INFO","msg":"sender: closed","stream_id":"dwpyogrz"}
+{"time":"2025-04-03T23:16:31.278753787-04:00","level":"INFO","msg":"stream: closed","id":"dwpyogrz"}

@@ -1,0 +1,15 @@
+{"time":"2025-04-19T19:41:49.504178705-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250419_194149-cd10jmdv/logs/debug-core.log"}
+{"time":"2025-04-19T19:41:49.60793939-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-19T19:41:49.607995367-04:00","level":"INFO","msg":"created new stream","id":"cd10jmdv"}
+{"time":"2025-04-19T19:41:49.608008117-04:00","level":"INFO","msg":"stream: started","id":"cd10jmdv"}
+{"time":"2025-04-19T19:41:49.608045119-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"cd10jmdv"}
+{"time":"2025-04-19T19:41:49.608052032-04:00","level":"INFO","msg":"handler: started","stream_id":"cd10jmdv"}
+{"time":"2025-04-19T19:41:49.608072401-04:00","level":"INFO","msg":"sender: started","stream_id":"cd10jmdv"}
+{"time":"2025-04-19T19:41:49.609954065-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T19:42:00.62305914-04:00","level":"INFO","msg":"stream: closing","id":"cd10jmdv"}
+{"time":"2025-04-19T19:42:00.623127717-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T19:42:00.62321569-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T19:42:00.623406041-04:00","level":"INFO","msg":"handler: closed","stream_id":"cd10jmdv"}
+{"time":"2025-04-19T19:42:00.623434541-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cd10jmdv"}
+{"time":"2025-04-19T19:42:00.623453638-04:00","level":"INFO","msg":"sender: closed","stream_id":"cd10jmdv"}
+{"time":"2025-04-19T19:42:00.623627595-04:00","level":"INFO","msg":"stream: closed","id":"cd10jmdv"}

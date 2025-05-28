@@ -1,0 +1,15 @@
+{"time":"2025-05-02T16:55:59.034078174-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250502_165558-fg6wild2/logs/debug-core.log"}
+{"time":"2025-05-02T16:55:59.137547422-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-02T16:55:59.137828354-04:00","level":"INFO","msg":"created new stream","id":"fg6wild2"}
+{"time":"2025-05-02T16:55:59.137861736-04:00","level":"INFO","msg":"stream: started","id":"fg6wild2"}
+{"time":"2025-05-02T16:55:59.137999404-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"fg6wild2"}
+{"time":"2025-05-02T16:55:59.138009213-04:00","level":"INFO","msg":"handler: started","stream_id":"fg6wild2"}
+{"time":"2025-05-02T16:55:59.138016705-04:00","level":"INFO","msg":"sender: started","stream_id":"fg6wild2"}
+{"time":"2025-05-02T16:55:59.14003393-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-02T18:40:41.428187828-04:00","level":"INFO","msg":"stream: closing","id":"fg6wild2"}
+{"time":"2025-05-02T18:40:41.428206856-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-02T18:40:41.428224844-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-02T18:40:41.428301077-04:00","level":"INFO","msg":"handler: closed","stream_id":"fg6wild2"}
+{"time":"2025-05-02T18:40:41.428310312-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"fg6wild2"}
+{"time":"2025-05-02T18:40:41.428320442-04:00","level":"INFO","msg":"sender: closed","stream_id":"fg6wild2"}
+{"time":"2025-05-02T18:40:41.428346648-04:00","level":"INFO","msg":"stream: closed","id":"fg6wild2"}

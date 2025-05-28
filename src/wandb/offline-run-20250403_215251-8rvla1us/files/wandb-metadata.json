@@ -1,0 +1,45 @@
+{
+  "os": "Linux-6.8.0-57-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-04-04T01:52:51.355168Z",
+  "args": [
+    "--config_path",
+    "./config/fedavg.json"
+  ],
+  "program": "/home/khotso/FedSync/baselines/./main.py",
+  "codePath": "baselines/main.py",
+  "git": {
+    "remote": "https://github.com/khotso1186/FedSync.git",
+    "commit": "dbe8f3586c7727b9845ebfded4b9c3ea63db7a91"
+  },
+  "root": "/home/khotso/FedSync/baselines",
+  "host": "khotso-ThinkStation-P620",
+  "executable": "/home/khotso/FedSync/bin/python",
+  "codePathLocal": "main.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 24,
+  "gpu": "Quadro P2200",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1006450962432",
+      "used": "724178706432"
+    }
+  },
+  "memory": {
+    "total": "33454280704"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 24
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Quadro P2200",
+      "memoryTotal": "5368709120",
+      "cudaCores": 1280,
+      "architecture": "Pascal"
+    }
+  ],
+  "cudaVersion": "12.4"
+}

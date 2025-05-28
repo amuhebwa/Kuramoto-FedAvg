@@ -1,0 +1,15 @@
+{"time":"2025-05-06T15:26:22.948162326-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250506_152622-crwip12j/logs/debug-core.log"}
+{"time":"2025-05-06T15:26:23.052203167-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-06T15:26:23.052408032-04:00","level":"INFO","msg":"created new stream","id":"crwip12j"}
+{"time":"2025-05-06T15:26:23.052422673-04:00","level":"INFO","msg":"stream: started","id":"crwip12j"}
+{"time":"2025-05-06T15:26:23.052446762-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"crwip12j"}
+{"time":"2025-05-06T15:26:23.052504722-04:00","level":"INFO","msg":"handler: started","stream_id":"crwip12j"}
+{"time":"2025-05-06T15:26:23.052520231-04:00","level":"INFO","msg":"sender: started","stream_id":"crwip12j"}
+{"time":"2025-05-06T15:26:23.054391948-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-06T15:55:11.10924723-04:00","level":"INFO","msg":"stream: closing","id":"crwip12j"}
+{"time":"2025-05-06T15:55:11.109262626-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-06T15:55:11.109303136-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-06T15:55:11.109365204-04:00","level":"INFO","msg":"handler: closed","stream_id":"crwip12j"}
+{"time":"2025-05-06T15:55:11.109372458-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"crwip12j"}
+{"time":"2025-05-06T15:55:11.109398722-04:00","level":"INFO","msg":"sender: closed","stream_id":"crwip12j"}
+{"time":"2025-05-06T15:55:11.109445609-04:00","level":"INFO","msg":"stream: closed","id":"crwip12j"}

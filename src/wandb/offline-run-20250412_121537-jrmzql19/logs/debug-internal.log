@@ -1,0 +1,15 @@
+{"time":"2025-04-12T12:15:37.322353786-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250412_121537-jrmzql19/logs/debug-core.log"}
+{"time":"2025-04-12T12:15:37.425700748-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-12T12:15:37.425891012-04:00","level":"INFO","msg":"created new stream","id":"jrmzql19"}
+{"time":"2025-04-12T12:15:37.42590879-04:00","level":"INFO","msg":"stream: started","id":"jrmzql19"}
+{"time":"2025-04-12T12:15:37.425943305-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"jrmzql19"}
+{"time":"2025-04-12T12:15:37.426172638-04:00","level":"INFO","msg":"handler: started","stream_id":"jrmzql19"}
+{"time":"2025-04-12T12:15:37.426404841-04:00","level":"INFO","msg":"sender: started","stream_id":"jrmzql19"}
+{"time":"2025-04-12T12:15:37.428363125-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-12T12:15:47.440202129-04:00","level":"INFO","msg":"stream: closing","id":"jrmzql19"}
+{"time":"2025-04-12T12:15:47.440271011-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-12T12:15:47.440463087-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-12T12:15:47.440666692-04:00","level":"INFO","msg":"handler: closed","stream_id":"jrmzql19"}
+{"time":"2025-04-12T12:15:47.440692166-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jrmzql19"}
+{"time":"2025-04-12T12:15:47.440713657-04:00","level":"INFO","msg":"sender: closed","stream_id":"jrmzql19"}
+{"time":"2025-04-12T12:15:47.44078555-04:00","level":"INFO","msg":"stream: closed","id":"jrmzql19"}

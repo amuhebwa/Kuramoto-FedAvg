@@ -1,0 +1,15 @@
+{"time":"2025-04-29T13:59:51.030244509-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250429_135950-cn256clf/logs/debug-core.log"}
+{"time":"2025-04-29T13:59:51.134142493-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-29T13:59:51.134195398-04:00","level":"INFO","msg":"created new stream","id":"cn256clf"}
+{"time":"2025-04-29T13:59:51.134208239-04:00","level":"INFO","msg":"stream: started","id":"cn256clf"}
+{"time":"2025-04-29T13:59:51.134215968-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"cn256clf"}
+{"time":"2025-04-29T13:59:51.134263142-04:00","level":"INFO","msg":"handler: started","stream_id":"cn256clf"}
+{"time":"2025-04-29T13:59:51.134266036-04:00","level":"INFO","msg":"sender: started","stream_id":"cn256clf"}
+{"time":"2025-04-29T13:59:51.136167055-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-29T15:14:23.116957135-04:00","level":"INFO","msg":"stream: closing","id":"cn256clf"}
+{"time":"2025-04-29T15:14:23.116989408-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-29T15:14:23.117034093-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-29T15:14:23.117097124-04:00","level":"INFO","msg":"handler: closed","stream_id":"cn256clf"}
+{"time":"2025-04-29T15:14:23.117103451-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cn256clf"}
+{"time":"2025-04-29T15:14:23.117112199-04:00","level":"INFO","msg":"sender: closed","stream_id":"cn256clf"}
+{"time":"2025-04-29T15:14:23.117185318-04:00","level":"INFO","msg":"stream: closed","id":"cn256clf"}

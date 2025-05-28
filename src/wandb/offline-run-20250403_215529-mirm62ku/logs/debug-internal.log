@@ -1,0 +1,15 @@
+{"time":"2025-04-03T21:55:29.234583483-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/baselines/wandb/offline-run-20250403_215529-mirm62ku/logs/debug-core.log"}
+{"time":"2025-04-03T21:55:29.34086053-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-03T21:55:29.340980927-04:00","level":"INFO","msg":"created new stream","id":"mirm62ku"}
+{"time":"2025-04-03T21:55:29.341010232-04:00","level":"INFO","msg":"stream: started","id":"mirm62ku"}
+{"time":"2025-04-03T21:55:29.341029218-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"mirm62ku"}
+{"time":"2025-04-03T21:55:29.341039668-04:00","level":"INFO","msg":"sender: started","stream_id":"mirm62ku"}
+{"time":"2025-04-03T21:55:29.341072951-04:00","level":"INFO","msg":"handler: started","stream_id":"mirm62ku"}
+{"time":"2025-04-03T21:55:29.346393464-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T21:56:49.460395216-04:00","level":"INFO","msg":"stream: closing","id":"mirm62ku"}
+{"time":"2025-04-03T21:56:49.460443878-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T21:56:49.460482942-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T21:56:49.460662631-04:00","level":"INFO","msg":"handler: closed","stream_id":"mirm62ku"}
+{"time":"2025-04-03T21:56:49.460670936-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mirm62ku"}
+{"time":"2025-04-03T21:56:49.460687187-04:00","level":"INFO","msg":"sender: closed","stream_id":"mirm62ku"}
+{"time":"2025-04-03T21:56:49.46078937-04:00","level":"INFO","msg":"stream: closed","id":"mirm62ku"}

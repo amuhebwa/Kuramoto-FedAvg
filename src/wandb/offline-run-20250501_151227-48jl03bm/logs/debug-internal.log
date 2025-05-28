@@ -1,0 +1,16 @@
+{"time":"2025-05-01T15:12:27.446350054-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250501_151227-48jl03bm/logs/debug-core.log"}
+{"time":"2025-05-01T15:12:27.54920409-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-01T15:12:27.549257968-04:00","level":"INFO","msg":"created new stream","id":"48jl03bm"}
+{"time":"2025-05-01T15:12:27.549271118-04:00","level":"INFO","msg":"stream: started","id":"48jl03bm"}
+{"time":"2025-05-01T15:12:27.5493106-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"48jl03bm"}
+{"time":"2025-05-01T15:12:27.549347156-04:00","level":"INFO","msg":"handler: started","stream_id":"48jl03bm"}
+{"time":"2025-05-01T15:12:27.549347141-04:00","level":"INFO","msg":"sender: started","stream_id":"48jl03bm"}
+{"time":"2025-05-01T15:12:27.551357515-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-01T15:15:48.814775607-04:00","level":"INFO","msg":"stream: closing","id":"48jl03bm"}
+{"time":"2025-05-01T15:15:48.8148481-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-01T15:15:48.814936154-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-01T15:15:48.815105773-04:00","level":"INFO","msg":"handler: closed","stream_id":"48jl03bm"}
+{"time":"2025-05-01T15:15:48.815149315-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"48jl03bm"}
+{"time":"2025-05-01T15:15:48.815192161-04:00","level":"INFO","msg":"sender: closed","stream_id":"48jl03bm"}
+{"time":"2025-05-01T15:15:48.815321351-04:00","level":"ERROR","msg":"writer: startStore: error closing store: store: failed closing writer: write /home/khotso/FedSync/src/wandb/offline-run-20250501_151227-48jl03bm/run-48jl03bm.wandb: disk quota exceeded"}
+{"time":"2025-05-01T15:15:48.81572126-04:00","level":"INFO","msg":"stream: closed","id":"48jl03bm"}

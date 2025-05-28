@@ -1,0 +1,15 @@
+{"time":"2025-04-10T21:31:36.468115985-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250410_213136-tp18spcg/logs/debug-core.log"}
+{"time":"2025-04-10T21:31:36.57217948-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-10T21:31:36.572230757-04:00","level":"INFO","msg":"created new stream","id":"tp18spcg"}
+{"time":"2025-04-10T21:31:36.572243401-04:00","level":"INFO","msg":"stream: started","id":"tp18spcg"}
+{"time":"2025-04-10T21:31:36.572280906-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"tp18spcg"}
+{"time":"2025-04-10T21:31:36.572330185-04:00","level":"INFO","msg":"sender: started","stream_id":"tp18spcg"}
+{"time":"2025-04-10T21:31:36.572349899-04:00","level":"INFO","msg":"handler: started","stream_id":"tp18spcg"}
+{"time":"2025-04-10T21:31:36.574160378-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-10T21:41:11.430922465-04:00","level":"INFO","msg":"stream: closing","id":"tp18spcg"}
+{"time":"2025-04-10T21:41:11.430991214-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-10T21:41:11.431092068-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-10T21:41:11.431347548-04:00","level":"INFO","msg":"handler: closed","stream_id":"tp18spcg"}
+{"time":"2025-04-10T21:41:11.431369808-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tp18spcg"}
+{"time":"2025-04-10T21:41:11.431414696-04:00","level":"INFO","msg":"sender: closed","stream_id":"tp18spcg"}
+{"time":"2025-04-10T21:41:11.431515794-04:00","level":"INFO","msg":"stream: closed","id":"tp18spcg"}

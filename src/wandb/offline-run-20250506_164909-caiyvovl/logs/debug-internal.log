@@ -1,0 +1,15 @@
+{"time":"2025-05-06T16:49:09.979799008-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250506_164909-caiyvovl/logs/debug-core.log"}
+{"time":"2025-05-06T16:49:10.083599547-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-06T16:49:10.083650999-04:00","level":"INFO","msg":"created new stream","id":"caiyvovl"}
+{"time":"2025-05-06T16:49:10.083662789-04:00","level":"INFO","msg":"stream: started","id":"caiyvovl"}
+{"time":"2025-05-06T16:49:10.083699708-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"caiyvovl"}
+{"time":"2025-05-06T16:49:10.083706895-04:00","level":"INFO","msg":"handler: started","stream_id":"caiyvovl"}
+{"time":"2025-05-06T16:49:10.083728095-04:00","level":"INFO","msg":"sender: started","stream_id":"caiyvovl"}
+{"time":"2025-05-06T16:49:10.085672824-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-06T17:31:25.569157294-04:00","level":"INFO","msg":"stream: closing","id":"caiyvovl"}
+{"time":"2025-05-06T17:31:25.569174014-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-06T17:31:25.569259771-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-06T17:31:25.569445193-04:00","level":"INFO","msg":"handler: closed","stream_id":"caiyvovl"}
+{"time":"2025-05-06T17:31:25.569452144-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"caiyvovl"}
+{"time":"2025-05-06T17:31:25.569502057-04:00","level":"INFO","msg":"sender: closed","stream_id":"caiyvovl"}
+{"time":"2025-05-06T17:31:25.569523253-04:00","level":"INFO","msg":"stream: closed","id":"caiyvovl"}

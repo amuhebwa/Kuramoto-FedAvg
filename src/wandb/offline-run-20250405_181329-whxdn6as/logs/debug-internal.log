@@ -1,0 +1,8 @@
+{"time":"2025-04-05T18:13:29.915657885-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/baselines/wandb/offline-run-20250405_181329-whxdn6as/logs/debug-core.log"}
+{"time":"2025-04-05T18:13:30.022478234-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-05T18:13:30.022609612-04:00","level":"INFO","msg":"created new stream","id":"whxdn6as"}
+{"time":"2025-04-05T18:13:30.022673343-04:00","level":"INFO","msg":"stream: started","id":"whxdn6as"}
+{"time":"2025-04-05T18:13:30.022690455-04:00","level":"INFO","msg":"handler: started","stream_id":"whxdn6as"}
+{"time":"2025-04-05T18:13:30.022700484-04:00","level":"INFO","msg":"sender: started","stream_id":"whxdn6as"}
+{"time":"2025-04-05T18:13:30.022749607-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"whxdn6as"}
+{"time":"2025-04-05T18:13:30.028103881-04:00","level":"INFO","msg":"Starting system monitor"}

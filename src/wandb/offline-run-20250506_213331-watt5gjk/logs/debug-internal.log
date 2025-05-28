@@ -1,0 +1,15 @@
+{"time":"2025-05-06T21:33:31.289729012-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250506_213331-watt5gjk/logs/debug-core.log"}
+{"time":"2025-05-06T21:33:31.393097851-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-05-06T21:33:31.393149221-04:00","level":"INFO","msg":"created new stream","id":"watt5gjk"}
+{"time":"2025-05-06T21:33:31.393160431-04:00","level":"INFO","msg":"stream: started","id":"watt5gjk"}
+{"time":"2025-05-06T21:33:31.393196672-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"watt5gjk"}
+{"time":"2025-05-06T21:33:31.393253722-04:00","level":"INFO","msg":"handler: started","stream_id":"watt5gjk"}
+{"time":"2025-05-06T21:33:31.393266911-04:00","level":"INFO","msg":"sender: started","stream_id":"watt5gjk"}
+{"time":"2025-05-06T21:33:31.395663485-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-06T22:00:37.536802233-04:00","level":"INFO","msg":"stream: closing","id":"watt5gjk"}
+{"time":"2025-05-06T22:00:37.536821313-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-06T22:00:37.536845107-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-06T22:00:37.536927797-04:00","level":"INFO","msg":"handler: closed","stream_id":"watt5gjk"}
+{"time":"2025-05-06T22:00:37.536934319-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"watt5gjk"}
+{"time":"2025-05-06T22:00:37.536942859-04:00","level":"INFO","msg":"sender: closed","stream_id":"watt5gjk"}
+{"time":"2025-05-06T22:00:37.536967492-04:00","level":"INFO","msg":"stream: closed","id":"watt5gjk"}

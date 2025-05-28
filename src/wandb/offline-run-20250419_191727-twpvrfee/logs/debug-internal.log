@@ -1,0 +1,15 @@
+{"time":"2025-04-19T19:17:27.592811022-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250419_191727-twpvrfee/logs/debug-core.log"}
+{"time":"2025-04-19T19:17:27.696497061-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-19T19:17:27.696564403-04:00","level":"INFO","msg":"created new stream","id":"twpvrfee"}
+{"time":"2025-04-19T19:17:27.696580126-04:00","level":"INFO","msg":"stream: started","id":"twpvrfee"}
+{"time":"2025-04-19T19:17:27.696595975-04:00","level":"INFO","msg":"handler: started","stream_id":"twpvrfee"}
+{"time":"2025-04-19T19:17:27.696605956-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"twpvrfee"}
+{"time":"2025-04-19T19:17:27.696593959-04:00","level":"INFO","msg":"sender: started","stream_id":"twpvrfee"}
+{"time":"2025-04-19T19:17:27.6989523-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T19:17:57.738153163-04:00","level":"INFO","msg":"stream: closing","id":"twpvrfee"}
+{"time":"2025-04-19T19:17:57.738221726-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T19:17:57.738335333-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T19:17:57.738747749-04:00","level":"INFO","msg":"handler: closed","stream_id":"twpvrfee"}
+{"time":"2025-04-19T19:17:57.738787682-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"twpvrfee"}
+{"time":"2025-04-19T19:17:57.738831142-04:00","level":"INFO","msg":"sender: closed","stream_id":"twpvrfee"}
+{"time":"2025-04-19T19:17:57.738984102-04:00","level":"INFO","msg":"stream: closed","id":"twpvrfee"}

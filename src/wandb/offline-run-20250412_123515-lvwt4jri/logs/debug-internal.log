@@ -1,0 +1,15 @@
+{"time":"2025-04-12T12:35:15.831040181-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250412_123515-lvwt4jri/logs/debug-core.log"}
+{"time":"2025-04-12T12:35:15.935004945-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-12T12:35:15.93505679-04:00","level":"INFO","msg":"created new stream","id":"lvwt4jri"}
+{"time":"2025-04-12T12:35:15.935072004-04:00","level":"INFO","msg":"stream: started","id":"lvwt4jri"}
+{"time":"2025-04-12T12:35:15.935107814-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"lvwt4jri"}
+{"time":"2025-04-12T12:35:15.935158303-04:00","level":"INFO","msg":"sender: started","stream_id":"lvwt4jri"}
+{"time":"2025-04-12T12:35:15.93517807-04:00","level":"INFO","msg":"handler: started","stream_id":"lvwt4jri"}
+{"time":"2025-04-12T12:35:15.93707973-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-12T12:41:57.388764115-04:00","level":"INFO","msg":"stream: closing","id":"lvwt4jri"}
+{"time":"2025-04-12T12:41:57.388805323-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-12T12:41:57.388857507-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-12T12:41:57.388959247-04:00","level":"INFO","msg":"handler: closed","stream_id":"lvwt4jri"}
+{"time":"2025-04-12T12:41:57.388966773-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lvwt4jri"}
+{"time":"2025-04-12T12:41:57.388975944-04:00","level":"INFO","msg":"sender: closed","stream_id":"lvwt4jri"}
+{"time":"2025-04-12T12:41:57.389105692-04:00","level":"INFO","msg":"stream: closed","id":"lvwt4jri"}

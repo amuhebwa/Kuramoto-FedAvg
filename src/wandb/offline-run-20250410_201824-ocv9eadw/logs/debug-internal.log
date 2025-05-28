@@ -1,0 +1,15 @@
+{"time":"2025-04-10T20:18:24.361043503-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250410_201824-ocv9eadw/logs/debug-core.log"}
+{"time":"2025-04-10T20:18:24.464967342-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-10T20:18:24.46501719-04:00","level":"INFO","msg":"created new stream","id":"ocv9eadw"}
+{"time":"2025-04-10T20:18:24.465029939-04:00","level":"INFO","msg":"stream: started","id":"ocv9eadw"}
+{"time":"2025-04-10T20:18:24.465069527-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ocv9eadw"}
+{"time":"2025-04-10T20:18:24.465118755-04:00","level":"INFO","msg":"sender: started","stream_id":"ocv9eadw"}
+{"time":"2025-04-10T20:18:24.465151475-04:00","level":"INFO","msg":"handler: started","stream_id":"ocv9eadw"}
+{"time":"2025-04-10T20:18:24.467029959-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-10T20:32:57.705701419-04:00","level":"INFO","msg":"stream: closing","id":"ocv9eadw"}
+{"time":"2025-04-10T20:32:57.705771919-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-10T20:32:57.705903429-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-10T20:32:57.706294486-04:00","level":"INFO","msg":"handler: closed","stream_id":"ocv9eadw"}
+{"time":"2025-04-10T20:32:57.70635548-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ocv9eadw"}
+{"time":"2025-04-10T20:32:57.706365692-04:00","level":"INFO","msg":"sender: closed","stream_id":"ocv9eadw"}
+{"time":"2025-04-10T20:32:57.706506795-04:00","level":"INFO","msg":"stream: closed","id":"ocv9eadw"}

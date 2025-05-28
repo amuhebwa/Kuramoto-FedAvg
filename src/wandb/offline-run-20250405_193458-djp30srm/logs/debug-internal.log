@@ -1,0 +1,15 @@
+{"time":"2025-04-05T19:34:58.424471165-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/baselines/wandb/offline-run-20250405_193458-djp30srm/logs/debug-core.log"}
+{"time":"2025-04-05T19:34:58.531861909-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-05T19:34:58.532051166-04:00","level":"INFO","msg":"created new stream","id":"djp30srm"}
+{"time":"2025-04-05T19:34:58.532081593-04:00","level":"INFO","msg":"stream: started","id":"djp30srm"}
+{"time":"2025-04-05T19:34:58.532103715-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"djp30srm"}
+{"time":"2025-04-05T19:34:58.53211669-04:00","level":"INFO","msg":"sender: started","stream_id":"djp30srm"}
+{"time":"2025-04-05T19:34:58.532142298-04:00","level":"INFO","msg":"handler: started","stream_id":"djp30srm"}
+{"time":"2025-04-05T19:34:58.535208295-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-05T22:08:36.500210994-04:00","level":"INFO","msg":"stream: closing","id":"djp30srm"}
+{"time":"2025-04-05T22:08:36.50025116-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-05T22:08:36.500290624-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-05T22:08:36.500413976-04:00","level":"INFO","msg":"handler: closed","stream_id":"djp30srm"}
+{"time":"2025-04-05T22:08:36.500428323-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"djp30srm"}
+{"time":"2025-04-05T22:08:36.500453411-04:00","level":"INFO","msg":"sender: closed","stream_id":"djp30srm"}
+{"time":"2025-04-05T22:08:36.500608022-04:00","level":"INFO","msg":"stream: closed","id":"djp30srm"}

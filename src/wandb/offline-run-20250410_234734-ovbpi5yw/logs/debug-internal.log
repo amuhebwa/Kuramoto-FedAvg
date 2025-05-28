@@ -1,0 +1,15 @@
+{"time":"2025-04-10T23:47:35.071974095-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250410_234734-ovbpi5yw/logs/debug-core.log"}
+{"time":"2025-04-10T23:47:35.175421661-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-10T23:47:35.175472213-04:00","level":"INFO","msg":"created new stream","id":"ovbpi5yw"}
+{"time":"2025-04-10T23:47:35.175485741-04:00","level":"INFO","msg":"stream: started","id":"ovbpi5yw"}
+{"time":"2025-04-10T23:47:35.175526636-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ovbpi5yw"}
+{"time":"2025-04-10T23:47:35.175737413-04:00","level":"INFO","msg":"handler: started","stream_id":"ovbpi5yw"}
+{"time":"2025-04-10T23:47:35.175763418-04:00","level":"INFO","msg":"sender: started","stream_id":"ovbpi5yw"}
+{"time":"2025-04-10T23:47:35.177970533-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-10T23:55:30.766456433-04:00","level":"INFO","msg":"stream: closing","id":"ovbpi5yw"}
+{"time":"2025-04-10T23:55:30.766525758-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-10T23:55:30.766694703-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-10T23:55:30.767020886-04:00","level":"INFO","msg":"handler: closed","stream_id":"ovbpi5yw"}
+{"time":"2025-04-10T23:55:30.767056071-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ovbpi5yw"}
+{"time":"2025-04-10T23:55:30.767115093-04:00","level":"INFO","msg":"sender: closed","stream_id":"ovbpi5yw"}
+{"time":"2025-04-10T23:55:30.767197802-04:00","level":"INFO","msg":"stream: closed","id":"ovbpi5yw"}

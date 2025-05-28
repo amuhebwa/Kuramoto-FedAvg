@@ -1,0 +1,15 @@
+{"time":"2025-04-11T19:59:57.946638975-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250411_195957-a3mc6md8/logs/debug-core.log"}
+{"time":"2025-04-11T19:59:58.050026436-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-11T19:59:58.050080634-04:00","level":"INFO","msg":"created new stream","id":"a3mc6md8"}
+{"time":"2025-04-11T19:59:58.050096689-04:00","level":"INFO","msg":"stream: started","id":"a3mc6md8"}
+{"time":"2025-04-11T19:59:58.050103826-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"a3mc6md8"}
+{"time":"2025-04-11T19:59:58.050327987-04:00","level":"INFO","msg":"handler: started","stream_id":"a3mc6md8"}
+{"time":"2025-04-11T19:59:58.050358655-04:00","level":"INFO","msg":"sender: started","stream_id":"a3mc6md8"}
+{"time":"2025-04-11T19:59:58.052625058-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-11T20:31:20.221735271-04:00","level":"INFO","msg":"stream: closing","id":"a3mc6md8"}
+{"time":"2025-04-11T20:31:20.221751641-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-11T20:31:20.221766496-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-11T20:31:20.22186907-04:00","level":"INFO","msg":"handler: closed","stream_id":"a3mc6md8"}
+{"time":"2025-04-11T20:31:20.221875198-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"a3mc6md8"}
+{"time":"2025-04-11T20:31:20.22188324-04:00","level":"INFO","msg":"sender: closed","stream_id":"a3mc6md8"}
+{"time":"2025-04-11T20:31:20.221970302-04:00","level":"INFO","msg":"stream: closed","id":"a3mc6md8"}

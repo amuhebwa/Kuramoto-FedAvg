@@ -1,0 +1,15 @@
+{"time":"2025-04-24T14:35:30.208343546-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250424_143529-ilug4klx/logs/debug-core.log"}
+{"time":"2025-04-24T14:35:30.312374442-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-24T14:35:30.312435005-04:00","level":"INFO","msg":"created new stream","id":"ilug4klx"}
+{"time":"2025-04-24T14:35:30.312450674-04:00","level":"INFO","msg":"stream: started","id":"ilug4klx"}
+{"time":"2025-04-24T14:35:30.312477877-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ilug4klx"}
+{"time":"2025-04-24T14:35:30.312485094-04:00","level":"INFO","msg":"handler: started","stream_id":"ilug4klx"}
+{"time":"2025-04-24T14:35:30.312508183-04:00","level":"INFO","msg":"sender: started","stream_id":"ilug4klx"}
+{"time":"2025-04-24T14:35:30.314411936-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-24T14:35:44.330489422-04:00","level":"INFO","msg":"stream: closing","id":"ilug4klx"}
+{"time":"2025-04-24T14:35:44.33056652-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-24T14:35:44.330658806-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-24T14:35:44.330855335-04:00","level":"INFO","msg":"handler: closed","stream_id":"ilug4klx"}
+{"time":"2025-04-24T14:35:44.33088363-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ilug4klx"}
+{"time":"2025-04-24T14:35:44.330891532-04:00","level":"INFO","msg":"sender: closed","stream_id":"ilug4klx"}
+{"time":"2025-04-24T14:35:44.331015409-04:00","level":"INFO","msg":"stream: closed","id":"ilug4klx"}

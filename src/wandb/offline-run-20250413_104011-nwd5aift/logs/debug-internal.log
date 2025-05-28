@@ -1,0 +1,15 @@
+{"time":"2025-04-13T10:40:11.663167612-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250413_104011-nwd5aift/logs/debug-core.log"}
+{"time":"2025-04-13T10:40:11.766008021-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-13T10:40:11.766101396-04:00","level":"INFO","msg":"created new stream","id":"nwd5aift"}
+{"time":"2025-04-13T10:40:11.766116558-04:00","level":"INFO","msg":"stream: started","id":"nwd5aift"}
+{"time":"2025-04-13T10:40:11.766146711-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"nwd5aift"}
+{"time":"2025-04-13T10:40:11.766149784-04:00","level":"INFO","msg":"sender: started","stream_id":"nwd5aift"}
+{"time":"2025-04-13T10:40:11.766189616-04:00","level":"INFO","msg":"handler: started","stream_id":"nwd5aift"}
+{"time":"2025-04-13T10:40:11.768100004-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-13T10:41:08.843424464-04:00","level":"INFO","msg":"stream: closing","id":"nwd5aift"}
+{"time":"2025-04-13T10:41:08.843490918-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-13T10:41:08.843604489-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-13T10:41:08.844005797-04:00","level":"INFO","msg":"handler: closed","stream_id":"nwd5aift"}
+{"time":"2025-04-13T10:41:08.844036717-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nwd5aift"}
+{"time":"2025-04-13T10:41:08.844041186-04:00","level":"INFO","msg":"sender: closed","stream_id":"nwd5aift"}
+{"time":"2025-04-13T10:41:08.844199501-04:00","level":"INFO","msg":"stream: closed","id":"nwd5aift"}

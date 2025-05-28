@@ -1,0 +1,15 @@
+{"time":"2025-04-11T00:14:53.497796871-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250411_001453-pmtrio3c/logs/debug-core.log"}
+{"time":"2025-04-11T00:14:53.601711743-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-11T00:14:53.601771942-04:00","level":"INFO","msg":"created new stream","id":"pmtrio3c"}
+{"time":"2025-04-11T00:14:53.601784931-04:00","level":"INFO","msg":"stream: started","id":"pmtrio3c"}
+{"time":"2025-04-11T00:14:53.601821863-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"pmtrio3c"}
+{"time":"2025-04-11T00:14:53.60187443-04:00","level":"INFO","msg":"handler: started","stream_id":"pmtrio3c"}
+{"time":"2025-04-11T00:14:53.60188397-04:00","level":"INFO","msg":"sender: started","stream_id":"pmtrio3c"}
+{"time":"2025-04-11T00:14:53.603700147-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-11T00:15:04.622012302-04:00","level":"INFO","msg":"stream: closing","id":"pmtrio3c"}
+{"time":"2025-04-11T00:15:04.622078693-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-11T00:15:04.622168828-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-11T00:15:04.622387464-04:00","level":"INFO","msg":"handler: closed","stream_id":"pmtrio3c"}
+{"time":"2025-04-11T00:15:04.622412045-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pmtrio3c"}
+{"time":"2025-04-11T00:15:04.622430183-04:00","level":"INFO","msg":"sender: closed","stream_id":"pmtrio3c"}
+{"time":"2025-04-11T00:15:04.622566862-04:00","level":"INFO","msg":"stream: closed","id":"pmtrio3c"}

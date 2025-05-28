@@ -1,0 +1,15 @@
+{"time":"2025-04-13T05:25:10.033977574-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/khotso/FedSync/src/wandb/offline-run-20250413_052509-azix4in2/logs/debug-core.log"}
+{"time":"2025-04-13T05:25:10.137654101-04:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-13T05:25:10.137703526-04:00","level":"INFO","msg":"created new stream","id":"azix4in2"}
+{"time":"2025-04-13T05:25:10.137716665-04:00","level":"INFO","msg":"stream: started","id":"azix4in2"}
+{"time":"2025-04-13T05:25:10.137754605-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"azix4in2"}
+{"time":"2025-04-13T05:25:10.137787685-04:00","level":"INFO","msg":"sender: started","stream_id":"azix4in2"}
+{"time":"2025-04-13T05:25:10.137821407-04:00","level":"INFO","msg":"handler: started","stream_id":"azix4in2"}
+{"time":"2025-04-13T05:25:10.139689338-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-13T06:53:16.275771461-04:00","level":"INFO","msg":"stream: closing","id":"azix4in2"}
+{"time":"2025-04-13T06:53:16.275787764-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-13T06:53:16.275830765-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-13T06:53:16.275893664-04:00","level":"INFO","msg":"handler: closed","stream_id":"azix4in2"}
+{"time":"2025-04-13T06:53:16.275899859-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"azix4in2"}
+{"time":"2025-04-13T06:53:16.275911339-04:00","level":"INFO","msg":"sender: closed","stream_id":"azix4in2"}
+{"time":"2025-04-13T06:53:16.276024056-04:00","level":"INFO","msg":"stream: closed","id":"azix4in2"}
