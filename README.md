@@ -80,3 +80,25 @@ data_setups = {
     "shards_per_client": 5,
     # for custom: supply a PyTorch Dataset class in train_tools.preprocessing
 }
+
+## 📊 Experiments & Results
+
+Pre-computed results and plots are in `experiments/figures/`. To reproduce:
+
+### Run the MNIST experiment
+```bash
+bash experiments/run_mnist.sh
+
+## 📚 Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
+@misc{muhebwa2025kuramoto,
+  title        = {Kuramoto-FedAvg: Using Synchronization Dynamics to Improve Federated Learning Optimization under Statistical Heterogeneity},
+  author       = {Muhebwa, Aggrey and Selialia, Khotso and Anwar, Fatima and Osman, Khalid K.},
+  year         = {2025},
+  eprint       = {2505.19605},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.LG}
+}
