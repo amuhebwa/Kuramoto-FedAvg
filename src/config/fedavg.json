@@ -1,7 +1,7 @@
 {
     "data_setups":{
         "root": "./data",
-        "dataset_name": "mnist",
+        "dataset_name": "cifar10",
         "batch_size": 64,
         "n_clients": 10,
         "partition": {
@@ -13,13 +13,13 @@
         "algo": {
             "name": "fedavg",
             "params": {},
-            "sync": 1,
-            "data_params": "mnist"
+            "sync": 0,
+            "data_params": "cifar10"
         },
         "scenario": {
             "n_rounds": 100,
             "sample_ratio": 1.0,
-            "local_epochs": 2,
+            "local_epochs": 1,
             "device": "cuda:0"
         },
         "model":{

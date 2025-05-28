@@ -12,6 +12,7 @@ from .measures import *
 __all__ = ["BaseServer"]
 
 class BaseServer:
+    
     def __init__(self, algo_params, model, data_distributed, optimizer, scheduler, n_rounds=200, sample_ratio=0.1, local_epochs=5, device="cuda:0", ):
         """
         Server class controls the overall experiment.
@@ -296,12 +297,9 @@ class BaseServer:
 
     def update_csv(self, acc, var):
 
-        if (self.algo_params.sync):
-            filename = f"/home/{os.getenv('USER')}/FedSync/evaluation/{self.algo_params.name}/{self.algo_params.data_params}/sync/accuracy.csv"
-        else:
-            filename = f"/home/{os.getenv('USER')}/FedSync/evaluation/{self.algo_params.name}/{self.algo_params.data_params}/unsync/accuracy.csv"
-
-        # Check if the file exists, create it if it doesn't
+        filename = f"/home/{os.getenv('USER')}/Kuramoto-FedAvg/evaluation/{self.algo_params.name}/{self.algo_params.data_params}/accuracy.csv"
+        
+        # Check if the file exists, create it if it doesn't 
         if not os.path.exists(filename):
             
             with open(filename, 'w', newline='') as file:
@@ -317,7 +315,6 @@ class BaseServer:
             # Write a new row with test_loss and test_acc
             writer.writerow({'Accuracy': acc, 'Variance': var})
             
-
     def _wandb_logging(self, round_results, round_idx):
         """Log on the W&B server"""
 

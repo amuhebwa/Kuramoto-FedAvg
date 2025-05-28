@@ -13,11 +13,6 @@ from torchvision.utils import save_image  # for saving torch tensors as images
 from .mnist.loader import get_all_targets_mnist, get_dataloader_mnist
 from .cifar10.loader import get_all_targets_cifar10, get_dataloader_cifar10
 from .cifar100.loader import get_all_targets_cifar100, get_dataloader_cifar100
-from .cinic10.loader import get_all_targets_cinic10, get_dataloader_cinic10
-from .tinyimagenet.loader import (
-    get_all_targets_tinyimagenet,
-    get_dataloader_tinyimagenet,
-)
 
 __all__ = ["data_distributer"]
 
@@ -25,15 +20,11 @@ DATA_INSTANCES = {
     "mnist": get_all_targets_mnist,
     "cifar10": get_all_targets_cifar10,
     "cifar100": get_all_targets_cifar100,
-    "cinic10": get_all_targets_cinic10,
-    "tinyimagenet": get_all_targets_tinyimagenet,
 }
 DATA_LOADERS = {
     "mnist": get_dataloader_mnist,
     "cifar10": get_dataloader_cifar10,
     "cifar100": get_dataloader_cifar100,
-    "cinic10": get_dataloader_cinic10,
-    "tinyimagenet": get_dataloader_tinyimagenet,
 }
 
 
