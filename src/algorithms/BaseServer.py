@@ -29,16 +29,13 @@ class BaseServer:
         self.n_rounds = n_rounds
         self.device = device
         self.n_clients = len(data_distributed["local"].keys())
-        self.local_epochs = local_epochs
+        self.local_epochs = local_epochs+1
         self.server_results = {
             "client_history": [],
             "test_accuracy": [],
         }
 
         self.round = 0
-
-        #if (self.algo_params.sync):
-        #    self.local_epochs = self.local_epochs + 1
 
     def run(self):
         """Run the FL experiment"""

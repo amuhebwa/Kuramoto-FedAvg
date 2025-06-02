@@ -1,0 +1,44 @@
+{
+    "data_setups":{
+        "root": "./data",
+        "dataset_name": "cifar10",
+        "batch_size": 64,
+        "n_clients": 10,
+        "partition": {
+            "method": "sharding",
+            "shard_per_user": 3
+        }
+    },
+    "train_setups":{
+        "algo": {
+            "name": "kuramoto",
+            "params": {},
+            "sync": 0,
+            "data_params": "cifar10"
+        },
+        "scenario": {
+            "n_rounds": 100,
+            "sample_ratio": 1.0,
+            "local_epochs": 1,
+            "device": "cuda:0"
+        },
+        "model":{
+            "name": "vgg11",                      
+            "params": {}
+        },
+        "optimizer":{
+            "params": {"lr": 0.01, "momentum":0.9, "weight_decay": 1e-5}
+        },
+        "scheduler":{
+            "enabled": true,
+            "name": "step",
+            "params": {"gamma":0.99, "step_size": 1}
+        },
+        "seed": 2022
+    },
+    "wandb_setups":{
+        "project": "NeurIPS2022",
+        "group": "kuramoto",
+        "name": "kuramoto"
+    }
+}

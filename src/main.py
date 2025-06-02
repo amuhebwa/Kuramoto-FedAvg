@@ -134,6 +134,7 @@ def config_overwriter(opt, args):
 ALGO = {
     "fedavg": algorithms.fedavg.Server,
     "scaffold": algorithms.scaffold.Server,
+    "kuramoto": algorithms.scaffold.Server,
 }
 
 SCHEDULER = {
